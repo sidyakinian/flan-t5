@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/34050187/215297802-e3897727-705a-4b0d-b100-41ab2d1316dd.png" width="800" height="400">
+
 # FLAN-T5 implementation in PyTorch
 
 FLAN-T5 is a PyTorch implementation of the Fine-tuned Language Analysis Network (FLAN) using the T5 model architecture. FLAN is a multi-task learning model that can be fine-tuned for various natural language understanding tasks, such as sentiment analysis, named entity recognition, and text classification.
